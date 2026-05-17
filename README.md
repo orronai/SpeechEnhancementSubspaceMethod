@@ -41,6 +41,9 @@ The code was tested using Matlab 2022a on Windows 10 and Matlab 2024b on macOS 1
 ### Run The Simulations
 To run the simulations and create the graphs that appear in the paper, run the `EstiamteSignalSubspace.m` file.
 
+### Audio Examples
+Representative audio examples are available in the `audio_examples` directory.
+
 ## Sources
 * [TIMIT Acoustic-Phonetic Continuous Speech Corpus](https://catalog.ldc.upenn.edu/LDC93S1).
 * [Image method for efficiently simulating small-room acoustics](https://www.audiolabs-erlangen.de/fau/professor/habets/software/rir-generator).
