@@ -49,3 +49,16 @@ Representative audio examples are available in the `audio_examples` directory.
 * [Image method for efficiently simulating small-room acoustics](https://www.audiolabs-erlangen.de/fau/professor/habets/software/rir-generator).
 * [RTF Estimation Using Riemannian Geometry for Speech Enhancement in the Presence of Interferences](https://github.com/orronai/SpeechEnhancementRiemannianGeometry).
 
+## Citation
+If you use this code for your research, please cite our paper:
+
+```
+@inproceedings{ronai2025subspace,
+  title={Subspace Method for RTF Estimation and Speech Enhancement Using Riemannian Geometry},
+  author={Ronai, Or and Bar, Amitay and Talmon, Ronen and Cohen, Israel},
+  booktitle={2026 34th European Signal Processing Conference (EUSIPCO)},
+  pages={91--95},
+  year={2026},
+  organization={IEEE}
+}
+```
