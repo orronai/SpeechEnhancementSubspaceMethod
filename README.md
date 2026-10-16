@@ -53,7 +53,7 @@ Representative audio examples are available in the `audio_examples` directory.
 If you use this code for your research, please cite our paper:
 
 ```
-@inproceedings{ronai2025subspace,
+@inproceedings{ronai2026subspace,
   title={Subspace Method for RTF Estimation and Speech Enhancement Using Riemannian Geometry},
   author={Ronai, Or and Bar, Amitay and Talmon, Ronen and Cohen, Israel},
   booktitle={2026 34th European Signal Processing Conference (EUSIPCO)},
